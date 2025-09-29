@@ -11,6 +11,7 @@ import pandas as pd
 #8,1154,1052,186,37,191
 #9,1197,1053,179,24,185
 #10,1235,1054,109,115,212
+#sadjfhaslkdjfhaslkdjfhklaj
 try:
     while True:
         time.sleep(1)
