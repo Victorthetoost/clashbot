@@ -1,0 +1,4 @@
+# Add your project dependencies here, for example:
+# numpy==1.26.0
+# opencv-python
+# ultralytics
