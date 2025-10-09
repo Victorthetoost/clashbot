@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 111
+names: ['a', 'b', 'enemy_archers', 'enemy_arrows', 'enemy_ballon', 'enemy_balloon', 'enemy_barbarians', 'enemy_bats', 'enemy_battle_ram', 'enemy_bomb', 'enemy_bomber', 'enemy_bowler', 'enemy_dark_prince', 'enemy_dart_goblin', 'enemy_electro_wizard', 'enemy_elixir_golem', 'enemy_evo_firecracker', 'enemy_excecutioner', 'enemy_fireball', 'enemy_firecracker', 'enemy_flying_machine', 'enemy_freeze', 'enemy_gaint', 'enemy_giant', 'enemy_goblin_barrel', 'enemy_goblin_hut', 'enemy_goblins', 'enemy_golem', 'enemy_hog_rider', 'enemy_ice_golem', 'enemy_ice_spirit', 'enemy_ice_wizard', 'enemy_inferno_dragon', 'enemy_knight', 'enemy_lava_hound', 'enemy_little_prince', 'enemy_log', 'enemy_lumberjack', 'enemy_mega_knight', 'enemy_miner', 'enemy_miner_trail', 'enemy_mini_pekka', 'enemy_minions', 'enemy_mortar', 'enemy_musketeer', 'enemy_night_witch', 'enemy_princess', 'enemy_rage', 'enemy_royal_ghost', 'enemy_skeletons', 'enemy_sparky', 'enemy_spear_goblins', 'enemy_tesla', 'enemy_tombstone', 'enemy_valkyrie', 'enemy_witch', 'enemy_wizard', 'enemy_xbow', 'graveyard', 'lava houndlet', 'player_archers', 'player_arrows', 'player_ballon', 'player_balloon', 'player_bats', 'player_bomb', 'player_bomber', 'player_bowler', 'player_caged_goblin', 'player_cannon', 'player_dark_prince', 'player_dart_goblin', 'player_electro_wizard', 'player_evo_firecracker', 'player_evo_knight', 'player_executioner', 'player_fire_spirit', 'player_fireball', 'player_firecraker', 'player_giant', 'player_giant_skeleton', 'player_goblin_barrel', 'player_goblin_cage', 'player_goblin_giant', 'player_goblin_hut', 'player_goblins', 'player_healer', 'player_hog_rider', 'player_ice_wizard', 'player_knight', 'player_log', 'player_lumberjack', 'player_mega_knight', 'player_mega_minion', 'player_mini_pekka', 'player_minions', 'player_musketeer', 'player_night_witch', 'player_pekka', 'player_skeleton_dragon', 'player_skeletons', 'player_sparky', 'player_spear_goblins', 'player_three_musketeers', 'player_tombstone', 'player_valkyrie', 'player_witch', 'player_wizard', 'player_xbow', 'poison', 'rage']
+
+roboflow:
+  workspace: microbio-ju73t
+  project: clash-royale-qv2ap-chcdi
+  version: 14
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/microbio-ju73t/clash-royale-qv2ap-chcdi/dataset/14
