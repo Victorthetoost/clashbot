@@ -23,4 +23,3 @@ output/
 rererance_pictures/
 runs/
 .venv
-checkpoints/eval/
