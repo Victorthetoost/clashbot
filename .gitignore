@@ -17,7 +17,6 @@ pip-delete-this-directory.txt
 .vscode/
 
 # Dataset folders
-dataset-coco/
 datasets/
 output/
 rererance_pictures/
