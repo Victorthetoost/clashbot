@@ -17,7 +17,6 @@ pip-delete-this-directory.txt
 .vscode/
 
 # Dataset folders
-datasets/
 output/
 rererance_pictures/
 runs/
