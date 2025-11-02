@@ -1,0 +1,26 @@
+# Python virtual environments and common artifacts
+.venv/
+venv/
+env/
+ENV/
+pyenv/
+__pycache__/
+*.png
+*.jpg
+*.jpeg
+*.txt
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE/editor folders
+.vscode/
+
+# Dataset folders
+dataset-coco/
+datasets/
+output/
+rererance_pictures/
+runs/
+.venv
+checkpoints/eval/
